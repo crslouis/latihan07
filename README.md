@@ -3,7 +3,7 @@
 
 |**Nama**|**NIM**|**Kelas**|**Matkul**|
 |----|---|-----|------|
-|Muhammad Nurul Firdaus|312310495|TI.23.A5|Basis Data|
+|Carlos Louis Fernando|312310458|TI.23.A5|Basis Data|
 
 # Soal Latihan Praktikum
 ## Data Model Mapping
